@@ -4,8 +4,6 @@
 #ifndef UNTITLED1_LITTLE_CLASS1_H
 #define UNTITLED1_LITTLE_CLASS1_H
 #include <iostream>
-#include <sstream>
-using std::stringstream;
 
 class BancoNacional {
 public:
