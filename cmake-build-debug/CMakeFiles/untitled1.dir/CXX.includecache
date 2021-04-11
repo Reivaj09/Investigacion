@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.cpp
+Big_Class.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h
+
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h
+iostream
+-
+sstream
+-
+IPaymentProccess.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h
+
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h
+
