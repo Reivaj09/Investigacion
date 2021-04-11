@@ -6,16 +6,16 @@
 #include <iostream>
 #include <sstream>
 #include "IPaymentProccess.h"
-using std::string;
 
-class Store: public IPaymentProcess{
+
+class Store{
 protected:
     IPaymentProcess* paymentProcess;
 public:
     Store();
     Store(IPaymentProcess *paymentProcess);
 
-    void buy();
+    bool buy();
 
     virtual ~Store();
 };

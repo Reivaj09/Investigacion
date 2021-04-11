@@ -6,8 +6,8 @@
 
 PaymentProcessorBancoNacional::PaymentProcessorBancoNacional(BancoNacional *bn) : BN(bn) {}
 
-void PaymentProcessorBancoNacional::pay() {
-    this->BN->charge();
+bool PaymentProcessorBancoNacional::pay() {
+    return this->BN->charge() ? true : false;
 }
 
 PaymentProcessorBancoNacional::~PaymentProcessorBancoNacional() {}

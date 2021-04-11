@@ -16,5 +16,9 @@ CMakeFiles\untitled1.dir\IPaymentProccess.cpp.obj: ..\IPaymentProccess.h
 CMakeFiles\untitled1.dir\Little_Class1.cpp.obj: ..\Little_Class1.cpp
 CMakeFiles\untitled1.dir\Little_Class1.cpp.obj: ..\Little_Class1.h
 
+CMakeFiles\untitled1.dir\main.cpp.obj: ..\Adaption_Little_Class1.h
+CMakeFiles\untitled1.dir\main.cpp.obj: ..\Big_Class.h
+CMakeFiles\untitled1.dir\main.cpp.obj: ..\IPaymentProccess.h
+CMakeFiles\untitled1.dir\main.cpp.obj: ..\Little_Class1.h
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\main.cpp
 

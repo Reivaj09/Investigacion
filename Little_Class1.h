@@ -10,7 +10,7 @@ using std::stringstream;
 class BancoNacional {
 public:
     BancoNacional();
-    void charge();
+    bool charge();
     virtual ~BancoNacional();
 };
 

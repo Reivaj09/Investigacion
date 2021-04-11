@@ -8,7 +8,7 @@
 
 class IPaymentProcess {
 public:
-    virtual void pay() = 0;
+    virtual bool pay() = 0;
 };
 
 

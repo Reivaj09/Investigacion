@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.cpp
-Big_Class.h
-C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Adaption_Little_Class1.h
+IPaymentProccess.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h
+Little_Class1.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Little_Class1.h
 
 C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h
 iostream
@@ -19,4 +21,18 @@ IPaymentProccess.h
 C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h
 
 C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h
+
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Little_Class1.h
+iostream
+-
+sstream
+-
+
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/main.cpp
+iostream
+-
+Big_Class.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h
+Adaption_Little_Class1.h
+C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Adaption_Little_Class1.h
 

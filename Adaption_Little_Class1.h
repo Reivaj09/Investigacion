@@ -12,8 +12,7 @@ protected:
     BancoNacional* BN;
 public:
     PaymentProcessorBancoNacional(BancoNacional *bn);
-
-    virtual void pay();
+    virtual bool pay();
     virtual ~PaymentProcessorBancoNacional();
 };
 

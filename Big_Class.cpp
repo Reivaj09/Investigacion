@@ -1,15 +1,15 @@
 //
-// Created by javir on 10/4/2021.
+// Created by Javier on 10/4/2021.
 //
 
 #include "Big_Class.h"
 
 
-Store::Store() {}
+Store::Store() = default ;
 Store::Store(IPaymentProcess *paymentProcess) : paymentProcess(paymentProcess) {}
 
-void Store::buy() {
-    this->paymentProcess->pay();
+bool Store::buy() {
+    return this->paymentProcess->pay() ? true : false;
 }
 
 Store::~Store() {
