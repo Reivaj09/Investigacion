@@ -4,11 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Adaption_Little_Class1.cpp" "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Adaption_Little_Class1.cpp.obj"
-  "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.cpp" "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Big_Class.cpp.obj"
-  "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.cpp" "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/IPaymentProccess.cpp.obj"
-  "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Little_Class1.cpp" "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Little_Class1.cpp.obj"
-  "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/main.cpp" "C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/Adaption_Little_Class1.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Adaption_Little_Class1.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/Adaption_Little_Class2.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Adaption_Little_Class2.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/Big_Class.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Big_Class.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/IPaymentProccess.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/IPaymentProccess.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/Little_Class1.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Little_Class1.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/Little_Class2.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/Little_Class2.cpp.obj"
+  "J:/Proyectos Progra II/Investigacion/main.cpp" "J:/Proyectos Progra II/Investigacion/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

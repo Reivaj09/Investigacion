@@ -6,6 +6,11 @@ CMakeFiles\untitled1.dir\Adaption_Little_Class1.cpp.obj: ..\Adaption_Little_Clas
 CMakeFiles\untitled1.dir\Adaption_Little_Class1.cpp.obj: ..\IPaymentProccess.h
 CMakeFiles\untitled1.dir\Adaption_Little_Class1.cpp.obj: ..\Little_Class1.h
 
+CMakeFiles\untitled1.dir\Adaption_Little_Class2.cpp.obj: ..\Adaption_Little_Class2.cpp
+CMakeFiles\untitled1.dir\Adaption_Little_Class2.cpp.obj: ..\Adaption_Little_Class2.h
+CMakeFiles\untitled1.dir\Adaption_Little_Class2.cpp.obj: ..\IPaymentProccess.h
+CMakeFiles\untitled1.dir\Adaption_Little_Class2.cpp.obj: ..\Little_Class2.h
+
 CMakeFiles\untitled1.dir\Big_Class.cpp.obj: ..\Big_Class.cpp
 CMakeFiles\untitled1.dir\Big_Class.cpp.obj: ..\Big_Class.h
 CMakeFiles\untitled1.dir\Big_Class.cpp.obj: ..\IPaymentProccess.h
@@ -15,6 +20,9 @@ CMakeFiles\untitled1.dir\IPaymentProccess.cpp.obj: ..\IPaymentProccess.h
 
 CMakeFiles\untitled1.dir\Little_Class1.cpp.obj: ..\Little_Class1.cpp
 CMakeFiles\untitled1.dir\Little_Class1.cpp.obj: ..\Little_Class1.h
+
+CMakeFiles\untitled1.dir\Little_Class2.cpp.obj: ..\Little_Class2.cpp
+CMakeFiles\untitled1.dir\Little_Class2.cpp.obj: ..\Little_Class2.h
 
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\Adaption_Little_Class1.h
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\Big_Class.h

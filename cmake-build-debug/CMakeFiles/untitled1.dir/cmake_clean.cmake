@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/Adaption_Little_Class1.cpp.obj"
+  "CMakeFiles/untitled1.dir/Adaption_Little_Class2.cpp.obj"
   "CMakeFiles/untitled1.dir/Big_Class.cpp.obj"
   "CMakeFiles/untitled1.dir/IPaymentProccess.cpp.obj"
   "CMakeFiles/untitled1.dir/Little_Class1.cpp.obj"
+  "CMakeFiles/untitled1.dir/Little_Class2.cpp.obj"
   "CMakeFiles/untitled1.dir/main.cpp.obj"
   "untitled1.exe"
   "untitled1.exe.manifest"

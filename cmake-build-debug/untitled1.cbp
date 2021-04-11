@@ -8,108 +8,120 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug"/>
+				<Option working_dir="J:/Proyectos Progra II/Investigacion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug"/>
+				<Option output="J:/Proyectos Progra II/Investigacion/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="J:/Proyectos Progra II/Investigacion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled1"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled1"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug"/>
+				<Option output="J:/Proyectos Progra II/Investigacion/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="J:/Proyectos Progra II/Investigacion/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug"/>
+				<Option working_dir="J:/Proyectos Progra II/Investigacion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/cmake-build-debug"/>
+				<Option working_dir="J:/Proyectos Progra II/Investigacion/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\javir\OneDrive\Escritorio\PrograII\Trabajo de Investigacion\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;J:\Proyectos Progra II\Investigacion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Adaption_Little_Class1.cpp">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Adaption_Little_Class1.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Adaption_Little_Class1.h">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Adaption_Little_Class1.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.cpp">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Adaption_Little_Class2.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Big_Class.h">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Adaption_Little_Class2.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.cpp">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Big_Class.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/IPaymentProccess.h">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Big_Class.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Little_Class1.cpp">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/IPaymentProccess.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/Little_Class1.h">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/IPaymentProccess.h">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/main.cpp">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Little_Class1.cpp">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="C:/Users/javir/OneDrive/Escritorio/PrograII/Trabajo de Investigacion/Investigacion/CMakeLists.txt">
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Little_Class1.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Little_Class2.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="J:/Proyectos Progra II/Investigacion/Little_Class2.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="J:/Proyectos Progra II/Investigacion/main.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="J:/Proyectos Progra II/Investigacion/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
