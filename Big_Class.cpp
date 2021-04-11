@@ -8,12 +8,6 @@
 Store::Store() {}
 Store::Store(IPaymentProcess *paymentProcess) : paymentProcess(paymentProcess) {}
 
-string Store::toString() {
-    stringstream s;
-    s << "HELLO WORD" << endl;
-    return s.str();
-}
-
 void Store::buy() {
     this->paymentProcess->pay();
 }
